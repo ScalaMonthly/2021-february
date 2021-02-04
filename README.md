@@ -1,7 +1,7 @@
 # Scala Monthly
 ## February 2021 - Branch Wars
 
-[![Discord Chat](https://img.shields.io/discord/308323056592486420.svg)](https://discord.gg/eAyJ9wAH4W)
+[![Discord Chat](https://img.shields.io/discord/793699402463969291.svg)](https://discord.gg/eAyJ9wAH4W)
 
 This repository houses the starter code for the February 2021 Scala Monthly Challenge.
 
